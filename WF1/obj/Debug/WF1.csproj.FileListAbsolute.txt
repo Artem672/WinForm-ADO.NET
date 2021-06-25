@@ -1,0 +1,7 @@
+D:\Study hard\WinForms\WF1\bin\Debug\WF1.exe.config
+D:\Study hard\WinForms\WF1\bin\Debug\WF1.exe
+D:\Study hard\WinForms\WF1\bin\Debug\WF1.pdb
+D:\Study hard\WinForms\WF1\obj\Debug\WF1.csprojAssemblyReference.cache
+D:\Study hard\WinForms\WF1\obj\Debug\WF1.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\WF1\obj\Debug\WF1.exe
+D:\Study hard\WinForms\WF1\obj\Debug\WF1.pdb
