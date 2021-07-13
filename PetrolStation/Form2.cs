@@ -12,24 +12,30 @@ namespace PetrolStation
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        private readonly Form1 _frm;
+        public Form2(Form1 frm)
         {
+           _frm = frm;
             InitializeComponent();
         }
 
         private void clearYes_Click(object sender, EventArgs e)
         {
-            this.Close();
+            _frm.Enabled = true;
+            _frm.MakeFieldsDefault();
+            this.Close();           
         }
 
         private void clearNo_Click(object sender, EventArgs e)
-        {
+        {           
             timer1.Start();         
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            this.Close();
+            _frm.Enabled = true;
+            _frm.MakeFieldsDefault();
+            this.Close();          
         }
     }
 }

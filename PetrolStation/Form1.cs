@@ -197,10 +197,18 @@ namespace PetrolStation
             }
             
         }
-
-        public void makeFieldsDefault()
+        public void MakeFieldsDefault()
         {
             petrolName.SelectedIndex = 0;
+            petrolTotalPayments.Text = "0";
+            foreach(var c in PetrolStation.Controls)
+            {
+                if(c is TextBox && ((TextBox)c).Enabled)
+                {
+                    ((TextBox)c).Text = "0";
+                    ((TextBox)c).Enabled = false;
+                }
+            }
             foreach (var c in Cafe.Controls)
             {
                 if(c is CheckBox)
@@ -226,10 +234,9 @@ namespace PetrolStation
             dayPaymentsTB.Refresh();
 
             System.Threading.Thread.Sleep(5000);
-            Form2 form2 = new();
+            Form2 form2 = new(this);
+            this.Enabled = false;
             form2.Show();
-            makeFieldsDefault();
-            
         }
     }
 }

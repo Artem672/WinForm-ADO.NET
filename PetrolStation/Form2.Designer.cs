@@ -92,10 +92,9 @@ namespace PetrolStation
         }
 
         #endregion
-
-        private System.Windows.Forms.Button clearYes;
-        private System.Windows.Forms.Button clearNo;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Button clearYes;
+        private System.Windows.Forms.Button clearNo;
     }
 }
