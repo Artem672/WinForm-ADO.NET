@@ -1,0 +1,12 @@
+{
+  "BirthDate": "2021-07-03T00:00:00",
+  "Name": "Artem",
+  "SurName": "S",
+  "Age": 0,
+  "Country": "Afghanistan",
+  "Sex": "Female",
+  "Hobby": [
+    "Games",
+    "Dotq"
+  ]
+}
