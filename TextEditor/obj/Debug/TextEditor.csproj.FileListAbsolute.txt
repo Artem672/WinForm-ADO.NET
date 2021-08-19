@@ -1,0 +1,10 @@
+D:\Study hard\WinForms\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Study hard\WinForms\TextEditor\bin\Debug\TextEditor.exe
+D:\Study hard\WinForms\TextEditor\bin\Debug\TextEditor.pdb
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.Form1.resources
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.exe
+D:\Study hard\WinForms\TextEditor\obj\Debug\TextEditor.pdb
