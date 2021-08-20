@@ -38,7 +38,7 @@ namespace TextEditor
         {
             var openDialog = new OpenFileDialog();
             openDialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            openDialog.Filter = "All files|*.*|Text documents|*.txt|RTF|*.rtf";
+            openDialog.Filter = "All files|*.*|Text documents|*.txt;*.cs;*.html|RTF|*.rtf";
             if (openDialog.ShowDialog() == DialogResult.OK)
             {
                 richTextBox1.LoadFile(openDialog.FileName);
@@ -53,7 +53,18 @@ namespace TextEditor
             }
             else
             {
-
+                var saveDialog = new SaveFileDialog();
+                if (saveDialog.ShowDialog() == DialogResult.OK)
+                {
+                    if (Path.GetExtension(saveDialog.FileName) == ".txt")
+                    {
+                        richTextBox1.SaveFile(saveDialog.FileName, RichTextBoxStreamType.UnicodePlainText);
+                    }
+                    else
+                    {
+                        richTextBox1.SaveFile(saveDialog.FileName);
+                    }
+                }
             }
         }
 

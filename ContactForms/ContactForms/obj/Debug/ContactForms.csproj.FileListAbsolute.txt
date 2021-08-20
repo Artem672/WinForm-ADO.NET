@@ -1,0 +1,11 @@
+D:\Study hard\WinForms\ContactForms\ContactForms\bin\Debug\ContactForms.exe.config
+D:\Study hard\WinForms\ContactForms\ContactForms\bin\Debug\ContactForms.exe
+D:\Study hard\WinForms\ContactForms\ContactForms\bin\Debug\ContactForms.pdb
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.csprojAssemblyReference.cache
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.Form1.resources
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.Properties.Resources.resources
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.csproj.GenerateResource.cache
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.exe
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.pdb
+D:\Study hard\WinForms\ContactForms\ContactForms\obj\Debug\ContactForms.EditContactForm.resources
