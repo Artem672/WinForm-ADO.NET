@@ -1,0 +1,13 @@
+D:\Study hard\WinForms\EventPlanner\EventPlanner\bin\Debug\EventPlanner.exe.config
+D:\Study hard\WinForms\EventPlanner\EventPlanner\bin\Debug\EventPlanner.exe
+D:\Study hard\WinForms\EventPlanner\EventPlanner\bin\Debug\EventPlanner.pdb
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.csprojAssemblyReference.cache
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.Form1.resources
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.Properties.Resources.resources
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.csproj.GenerateResource.cache
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.exe
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.pdb
+D:\Study hard\WinForms\EventPlanner\EventPlanner\bin\Debug\Newtonsoft.Json.dll
+D:\Study hard\WinForms\EventPlanner\EventPlanner\bin\Debug\Newtonsoft.Json.xml
+D:\Study hard\WinForms\EventPlanner\EventPlanner\obj\Debug\EventPlanner.csproj.CopyComplete

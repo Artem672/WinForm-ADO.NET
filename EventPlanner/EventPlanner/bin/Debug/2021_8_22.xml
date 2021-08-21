@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Event>
+    <Name>tthret</Name>
+    <Place>trherth</Place>
+    <Date>2021-08-23T00:51:25.8302985+03:00</Date>
+    <Priority>1</Priority>
+  </Event>
+  <Event>
+    <Name>gfdhf</Name>
+    <Place>bdfg</Place>
+    <Date>2021-08-23T00:51:31.7187382+03:00</Date>
+    <Priority>1</Priority>
+  </Event>
+  <Event>
+    <Name>rth</Name>
+    <Place>rth</Place>
+    <Date>2021-08-23T00:51:34.3472198+03:00</Date>
+    <Priority>2</Priority>
+  </Event>
+</ArrayOfEvent>
