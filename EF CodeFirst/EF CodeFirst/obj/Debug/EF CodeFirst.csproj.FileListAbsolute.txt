@@ -1,0 +1,15 @@
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EF CodeFirst.exe.config
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EF CodeFirst.exe
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EF CodeFirst.pdb
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EntityFramework.dll
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EntityFramework.xml
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF CodeFirst.csprojAssemblyReference.cache
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF CodeFirst.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF CodeFirst.csproj.CopyComplete
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF CodeFirst.exe
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF CodeFirst.pdb
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF_CodeFirst.Migrations.dataBaseConnect.resources
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF CodeFirst.csproj.GenerateResource.cache
+D:\Study hard\WinForms\EF CodeFirst\EF CodeFirst\obj\Debug\EF_CodeFirst.Migrations.newGamesProperties.resources
