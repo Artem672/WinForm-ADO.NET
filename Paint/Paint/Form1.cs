@@ -88,7 +88,9 @@ namespace Paint
         {
             if (rectangles.Count > 0)
             {              
-                e.Graphics.DrawRectangles(new Pen(Color.FromName(colorComboBox.Items[colorComboBox.SelectedIndex].ToString())), rectangles.ToArray());
+                e.Graphics.DrawRectangles(
+                    new Pen(Color.FromName(colorComboBox.Items[colorComboBox.SelectedIndex].ToString())),//I don't know how to save rectangle color
+                    rectangles.ToArray());
             }
             if (lines.Count > 0)
             {
