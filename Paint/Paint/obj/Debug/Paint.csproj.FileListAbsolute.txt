@@ -1,0 +1,10 @@
+D:\Study hard\WinForms\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Study hard\WinForms\Paint\Paint\bin\Debug\Paint.exe
+D:\Study hard\WinForms\Paint\Paint\bin\Debug\Paint.pdb
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.Form1.resources
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.exe
+D:\Study hard\WinForms\Paint\Paint\obj\Debug\Paint.pdb
