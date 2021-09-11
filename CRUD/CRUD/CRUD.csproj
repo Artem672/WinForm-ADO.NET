@@ -66,6 +66,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="InitializerDB.cs" />
     <Compile Include="Migrations\202108251331017_Init database.cs" />
     <Compile Include="Migrations\202108251331017_Init database.designer.cs">
       <DependentUpon>202108251331017_Init database.cs</DependentUpon>

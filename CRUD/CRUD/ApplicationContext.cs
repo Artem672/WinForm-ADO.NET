@@ -10,6 +10,7 @@ namespace CRUD
         public ApplicationContext()
             : base("name=ApplicationContext")
         {
+            Database.SetInitializer(new InitializerDB());
         }
         public virtual DbSet<Position> Positions { get; set; }
         public virtual DbSet<Employee> Employees { get; set; }

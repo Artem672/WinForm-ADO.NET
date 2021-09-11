@@ -37,7 +37,6 @@ namespace CRUD.TaskForms
             this.label3 = new System.Windows.Forms.Label();
             this.salaryNUP = new System.Windows.Forms.NumericUpDown();
             this.label4 = new System.Windows.Forms.Label();
-            this.positionTB = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.createButton = new System.Windows.Forms.Button();
             this.taskTB = new System.Windows.Forms.TextBox();
@@ -46,6 +45,8 @@ namespace CRUD.TaskForms
             this.label7 = new System.Windows.Forms.Label();
             this.addTaskButton = new System.Windows.Forms.Button();
             this.taskLB = new System.Windows.Forms.ListBox();
+            this.positionCB = new System.Windows.Forms.ComboBox();
+            this.addPositionButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.ageNUD)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.salaryNUP)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.priorityNUP)).BeginInit();
@@ -138,16 +139,6 @@ namespace CRUD.TaskForms
             this.label4.TabIndex = 7;
             this.label4.Text = "Salary:";
             // 
-            // positionTB
-            // 
-            this.positionTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.positionTB.Location = new System.Drawing.Point(110, 152);
-            this.positionTB.Multiline = true;
-            this.positionTB.Name = "positionTB";
-            this.positionTB.Size = new System.Drawing.Size(306, 35);
-            this.positionTB.TabIndex = 8;
-            this.positionTB.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -226,11 +217,34 @@ namespace CRUD.TaskForms
             this.taskLB.Size = new System.Drawing.Size(306, 84);
             this.taskLB.TabIndex = 17;
             // 
+            // positionCB
+            // 
+            this.positionCB.FormattingEnabled = true;
+            this.positionCB.Location = new System.Drawing.Point(110, 159);
+            this.positionCB.Name = "positionCB";
+            this.positionCB.Size = new System.Drawing.Size(245, 24);
+            this.positionCB.TabIndex = 18;
+            this.positionCB.SelectedIndexChanged += new System.EventHandler(this.positionCB_SelectedIndexChanged);
+            // 
+            // addPositionButton
+            // 
+            this.addPositionButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.addPositionButton.Location = new System.Drawing.Point(362, 159);
+            this.addPositionButton.Name = "addPositionButton";
+            this.addPositionButton.Size = new System.Drawing.Size(54, 24);
+            this.addPositionButton.TabIndex = 19;
+            this.addPositionButton.Text = "+";
+            this.addPositionButton.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.addPositionButton.UseVisualStyleBackColor = true;
+            this.addPositionButton.Click += new System.EventHandler(this.addPositionButton_Click);
+            // 
             // CreateForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(529, 450);
+            this.Controls.Add(this.addPositionButton);
+            this.Controls.Add(this.positionCB);
             this.Controls.Add(this.taskLB);
             this.Controls.Add(this.addTaskButton);
             this.Controls.Add(this.label7);
@@ -239,7 +253,6 @@ namespace CRUD.TaskForms
             this.Controls.Add(this.taskTB);
             this.Controls.Add(this.createButton);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.positionTB);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.salaryNUP);
             this.Controls.Add(this.label3);
@@ -268,7 +281,6 @@ namespace CRUD.TaskForms
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.NumericUpDown salaryNUP;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox positionTB;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button createButton;
         private System.Windows.Forms.TextBox taskTB;
@@ -277,5 +289,7 @@ namespace CRUD.TaskForms
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button addTaskButton;
         private System.Windows.Forms.ListBox taskLB;
+        private System.Windows.Forms.ComboBox positionCB;
+        private System.Windows.Forms.Button addPositionButton;
     }
 }
