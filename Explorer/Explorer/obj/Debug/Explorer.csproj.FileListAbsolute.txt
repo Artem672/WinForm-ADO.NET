@@ -1,0 +1,10 @@
+D:\Study hard\WinForms\Explorer\Explorer\bin\Debug\Explorer.exe.config
+D:\Study hard\WinForms\Explorer\Explorer\bin\Debug\Explorer.exe
+D:\Study hard\WinForms\Explorer\Explorer\bin\Debug\Explorer.pdb
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.Form1.resources
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.cache
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.exe
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.pdb
+D:\Study hard\WinForms\Explorer\Explorer\obj\Debug\Explorer.csprojAssemblyReference.cache
