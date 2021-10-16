@@ -1,0 +1,10 @@
+D:\Study hard\WinForms\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Study hard\WinForms\TaskManager\bin\Debug\TaskManager.exe
+D:\Study hard\WinForms\TaskManager\bin\Debug\TaskManager.pdb
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.Form1.resources
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.exe
+D:\Study hard\WinForms\TaskManager\obj\Debug\TaskManager.pdb
