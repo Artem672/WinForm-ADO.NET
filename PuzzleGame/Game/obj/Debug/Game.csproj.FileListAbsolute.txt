@@ -1,0 +1,34 @@
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\bin\Debug\Game.exe.config
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\bin\Debug\Game.exe
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\bin\Debug\Game.pdb
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.Form1.resources
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.Properties.Resources.resources
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.exe
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.pdb
+D:\lp\kurs 1 term 2\OOP\Labs + docs\04\Lab04\Game\obj\Debug\Game.Game.resources
+C:\Users\HP\Downloads\Lab04\Game\bin\Debug\Game.exe.config
+C:\Users\HP\Downloads\Lab04\Game\bin\Debug\Game.exe
+C:\Users\HP\Downloads\Lab04\Game\bin\Debug\Game.pdb
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.Form1.resources
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.Game.resources
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.exe
+C:\Users\HP\Downloads\Lab04\Game\obj\Debug\Game.pdb
+D:\Study hard\WinForms\PuzzleGame\Game\bin\Debug\Game.exe.config
+D:\Study hard\WinForms\PuzzleGame\Game\bin\Debug\Game.exe
+D:\Study hard\WinForms\PuzzleGame\Game\bin\Debug\Game.pdb
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.Form1.resources
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.Game.resources
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.Properties.Resources.resources
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.exe
+D:\Study hard\WinForms\PuzzleGame\Game\obj\Debug\Game.pdb
